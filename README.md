@@ -46,4 +46,5 @@ Acknowledgment
 --------------
 
 Paul J. Warner, for the original idea http://ruffyen.blogspot.com/2012/02/django-and-version-control-for-multiple.html
+
 FunkyBob from #django on freenode, for help figuring out how to include the files properly
