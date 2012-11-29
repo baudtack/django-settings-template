@@ -39,7 +39,8 @@ and your production specific settings in settings_prod.py.
 
 You can also add arbitrary settings files simply by adding key value pairs to
 settings_map.py where the key is the computer name and the value is the file to 
-load.
+load. This has been tested under wsgi and shouldn't require any special setup
+for any other deployment.
 
 Acknowledgment
 --------------
